@@ -1,4 +1,5 @@
 🏭 Pipeline de Inteligência B2B: Extração e Automação Industrial
+
 💎 Visão Geral do Projeto
 Este repositório apresenta uma solução de ponta a ponta para a prospecção qualificada no setor industrial. O objetivo principal foi transformar dados brutos e não estruturados da web em leads comerciais prontos para abordagem, eliminando o trabalho manual e aumentando a precisão dos dados de contato (CNPJ e E-mail).
 
