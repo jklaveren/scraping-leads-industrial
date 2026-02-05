@@ -1,0 +1,10 @@
+# Ignorar arquivos de dados reais do cliente
+*.xlsx
+*.csv
+*.xls
+
+# Ignorar pastas de sistema
+__pycache__/
+.venv/
+.env
+.vscode/
